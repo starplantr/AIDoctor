@@ -1,4 +1,0 @@
-Disease : 
-As an AI, I'm tasked to generate a comprehensive and professional understanding of a . The information should be in-depth and structured in a way that a language model can efficiently absorb and digest. 
-It should cover the following aspects: 1. Clinical Manifestation/Symptoms 2. Natural History 3. Epidemiology 4. Etiology 5. Pathophysiology 6. Differential Diagnosis 7. Psychosocial Factors 8. Health Behaviors 9. Any Previous Medical History that is related to the disease. 
-The aim is to create a robust knowledge base to aid in the education of a language model
