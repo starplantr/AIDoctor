@@ -1,5 +1,10 @@
 # AIDoctor
 
+👥 참여자
+* 유진식 : AI
+* 하윤호 : frontend
+* 구혁모 : server
+* 박선균 : backend
 
 🛠️ Feature
 ---
