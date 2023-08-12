@@ -1,0 +1,123 @@
+**Case 1:**
+
+A 48-year-old man presents to the clinic complaining of a burning sensation in his chest, especially after meals, for the past two months. He also reports difficulty swallowing and the feeling of food getting stuck in his throat. He has a history of obesity and smokes a pack of cigarettes every day. He has been taking NSAIDs regularly for his chronic back pain.
+
+*What is the most likely diagnosis of the patient?*
+
+This patient is most likely suffering from **esophagitis**, possibly due to gastroesophageal reflux disease (GERD). The burning sensation in his chest (heartburn), particularly after meals, difficulty swallowing, and sensation of food getting stuck are indicative of inflammation of the esophagus. His risk factors include obesity, which can increase abdominal pressure and promote reflux, smoking, which can weaken the lower esophageal sphincter, and the regular use of NSAIDs, which can cause direct mucosal damage and inhibit prostaglandin production, a substance which protects the gastrointestinal lining.
+
+**Case 2:**
+
+A 32-year-old woman with a known history of HIV presents to the clinic complaining of severe throat pain and difficulty swallowing for the last two weeks. She also reports loss of appetite and weight loss. On physical examination, oral thrush is noted.
+
+*What is the most likely diagnosis of the patient?*
+
+The most likely diagnosis for this patient is **infectious esophagitis**, possibly due to Candida. The patient's HIV status makes her more susceptible to opportunistic infections, including fungal infections like Candida. Candida esophagitis typically presents with odynophagia (painful swallowing), and it is frequently associated with oral thrush, as seen in this patient.
+
+**Case 3:**
+
+A 27-year-old man presents to the emergency department with severe chest pain after swallowing a large pill without water. He also complains of difficulty swallowing, painful swallowing, and has vomited twice since the incident.
+
+*What is the most likely diagnosis of the patient?*
+
+This patient is likely suffering from **pill-induced esophagitis**. This condition often occurs when a patient takes a pill with insufficient water or just before lying down, causing the pill to lodge in the esophagus where it can cause direct chemical injury to the esophageal lining.
+
+**Case 4:**
+
+A 55-year-old man, who recently completed radiation therapy for lung cancer, presents to the clinic complaining of difficulty and pain when swallowing. He also mentions heartburn and has unintentionally lost weight over the past month.
+
+*What is the most likely diagnosis of the patient?*
+
+This patient's presentation suggests **radiation-induced esophagitis**. The patient's history of recent radiation therapy to the chest area for lung cancer makes him at risk for developing radiation esophagitis. Symptoms typically start within 2 to 3 weeks of initiating radiation therapy and include dysphagia (difficulty swallowing), odynophagia (painful swallowing), and heartburn.
+
+**Case 5:**
+
+A 5-year-old boy is brought to the clinic by his parents due to food refusal, vomiting, and failure to thrive. His mother also reports that he seems to have difficulty swallowing. His past medical history is significant for atopic dermatitis and food allergies.
+
+*What is the most likely diagnosis of the patient?*
+
+This patient's symptoms, together with his history of atopic dermatitis and food allergies, suggest a diagnosis of **eosinophilic esophagitis (EoE)**. EoE is an allergic inflammatory disease characterized by elevated eosinophils in the esophagus. The condition is often associated with other allergic conditions such as atopic dermatitis. The presenting symptoms in children often include feeding difficulties, vomiting, and failure to thrive.
+
+**Case 6:**
+
+A 50-year-old woman with a known history of rheumatoid arthritis presents with a sudden onset of chest pain that she describes as a burning sensation. The pain worsens when she swallows, especially hot drinks and meals. She admits to not following the advice to take her NSAID medication, Ibuprofen, with food because it upsets her stomach. 
+
+*What is the most likely diagnosis of the patient?*
+
+This patient likely has **medication-induced esophagitis**, specifically due to NSAIDs. The use of NSAIDs, particularly without food, can cause direct irritation and injury to the esophageal lining leading to inflammation. The burning chest pain and worsening of pain with swallowing are characteristic symptoms.
+
+**Case 7:**
+
+A 19-year-old man presents with complaints of heartburn, difficulty swallowing, and occasional regurgitation of food for the past six months. He reports a history of childhood asthma and allergies. An upper endoscopy reveals linear furrows and white specks on the esophageal wall.
+
+*What is the most likely diagnosis of the patient?*
+
+The patient's symptoms and endoscopic findings suggest **eosinophilic esophagitis**. His history of asthma and allergies, as well as the endoscopic findings of linear furrows and white specks (exudates), are characteristic of eosinophilic esophagitis, a chronic immune-mediated disease.
+
+**Case 8:**
+
+A 65-year-old man presents with new-onset chest pain, difficulty swallowing, and significant weight loss over the past two months. He has a 40-pack-year smoking history and admits to drinking alcohol daily. A barium swallow study reveals an irregular narrowing in the middle third of the esophagus.
+
+*What is the most likely diagnosis of the patient?*
+
+Although this patient has symptoms suggestive of esophagitis, his significant risk factors (heavy smoking and alcohol consumption), weight loss, and the finding of irregular narrowing on a barium swallow study raise concern for **esophageal cancer**. Weight loss is typically not seen in uncomplicated esophagitis. While esophagitis can cause strictures, these are usually smooth and regular. The irregularity seen in this patient is more concerning for malignancy.
+
+**Case 9:**
+
+A 43-year-old woman with a history of systemic lupus erythematosus presents with sudden chest pain that she describes as "feeling like something is stuck." She also mentions the frequent occurrence of this chest pain after taking her medication without sufficient water before going to bed. 
+
+*What is the most likely diagnosis of the patient?*
+
+This patient likely has **pill-induced esophagitis**. Taking pills with insufficient water, especially right before lying down, can cause the medication to become lodged in the esophagus, leading to direct chemical injury. This condition often presents with sudden onset chest pain that feels like something is stuck, especially after taking medication.
+
+**Case 10:**
+
+A 37-year-old man presents to the emergency department with acute onset of chest pain and difficulty swallowing. He mentions he has been vomiting and spitting out blood for the past hour. He has a history of alcohol abuse and was diagnosed with esophageal varices last year. 
+
+*What is the most likely diagnosis of the patient?*
+
+This patient's presentation of hematemesis (vomiting blood), chest pain, and difficulty swallowing, combined with his history of alcohol abuse and known esophageal varices, are indicative of **ruptured esophageal varices**. This is a severe and life-threatening condition that requires immediate medical attention. 
+
+**Case 11:**
+
+A 50-year-old man with a known history of acid reflux presents with complaints
+
+ of progressively worsening difficulty swallowing for the past few months. He reports that he initially had trouble swallowing solid food, and now he also struggles with liquids. Barium swallow shows a smooth tapering of the lower part of the esophagus.
+
+*What is the most likely diagnosis of the patient?*
+
+This patient likely has a **peptic stricture**, which is a complication of long-standing gastroesophageal reflux disease (GERD). This condition can lead to scarring and narrowing of the lower esophagus, causing progressive dysphagia (difficulty swallowing) initially to solids and then to liquids. The finding of a smooth tapering (or "bird's beak" appearance) of the lower esophagus on a barium swallow is consistent with a peptic stricture. 
+
+**Case 12:**
+
+A 45-year-old woman presents with a two-week history of odynophagia, especially while eating, and a low-grade fever. She has a past medical history of HIV infection. An endoscopy reveals small, shallow ulcers in the lower esophagus.
+
+*What is the most likely diagnosis of the patient?*
+
+The patient's HIV history and the presence of shallow ulcers in the lower esophagus are indicative of **infectious esophagitis**. Patients with a compromised immune system, such as those with HIV, are at risk for infections that can lead to esophagitis. Common pathogens include Candida, herpes simplex virus, and cytomegalovirus. 
+
+**Case 13:**
+
+A 32-year-old woman presents with a history of heartburn, regurgitation, and chest pain. She mentions that these symptoms often occur after eating a heavy meal or when she lies down after eating. Despite taking over-the-counter antacids, her symptoms persist. She has no known history of peptic ulcer disease or H. pylori infection.
+
+*What is the most likely diagnosis of the patient?*
+
+This patient's symptoms of heartburn, regurgitation, and chest pain, especially after meals or upon lying down, suggest **gastroesophageal reflux disease (GERD)**. GERD is one of the most common causes of esophagitis, as the repeated reflux of stomach acid into the esophagus can lead to inflammation. 
+
+**Case 14:**
+
+A 60-year-old man with a known history of sarcoidosis complains of painful swallowing and weight loss over the past few months. He also has a dry cough and hoarseness. An upper endoscopy reveals inflamed, reddened mucosa in the upper esophagus with multiple small ulcers.
+
+*What is the most likely diagnosis of the patient?*
+
+Given his sarcoidosis history and the presence of ulcers in the upper esophagus, this patient likely has **granulomatous esophagitis**. Sarcoidosis is a systemic granulomatous disease that can affect multiple organ systems, including the esophagus, although esophageal involvement is relatively rare.
+
+**Case 15:**
+
+A 17-year-old girl is brought in by her parents for recurrent episodes of vomiting blood over the past month. Her parents also report she has been eating less and appears to have lost weight. They are aware that she has been consuming non-food substances, such as clay and dirt, for the past six months, a condition they believe is due to her mental health issues.
+
+*What is the most likely diagnosis of the patient?*
+
+This patient has **Pica**, a psychological disorder characterized by an appetite for substances that are largely non-nutritive, such as clay, dirt, or hair. The consumption of these non-food items may have led to an esophageal foreign body or esophageal
+
+ injury, causing **esophagitis**. The presence of hematemesis (vomiting blood) and weight loss, combined with her history of pica, suggests this diagnosis. This condition should be managed by removing the foreign body (if present), treating the esophagitis, and addressing the underlying psychological issue.

@@ -1,0 +1,121 @@
+**Case 1:**
+
+A 75-year-old male presents to the clinic with a 2-month history of early satiety and persistent vomiting of undigested food. He reports a significant loss of appetite and unintentional weight loss. His past medical history reveals a diagnosis of peptic ulcer disease for which he has been taking proton pump inhibitors. 
+
+*What is the most likely diagnosis of the patient?*
+
+Given the patient's symptoms of early satiety, vomiting of undigested food, and weight loss, along with a history of peptic ulcer disease, the most likely diagnosis is **gastric outlet obstruction (GOO)**. Peptic ulcers are one of the most common benign causes of GOO, especially in older adults.
+
+**Case 2:**
+
+A 65-year-old woman comes to the clinic with recurrent nausea and vomiting. She reports feeling full after eating only a small amount of food. She has also lost weight and complains of feeling weak. Her medical history includes a diagnosis of gastric cancer two years ago. She underwent surgery and has been on chemotherapy since then.
+
+*What is the most likely diagnosis of the patient?*
+
+The patient's symptoms of persistent nausea, vomiting, early satiety, weight loss, and a history of gastric cancer suggest the diagnosis of **gastric outlet obstruction (GOO)**. Gastric cancer is a known malignant cause of GOO and could have recurred or led to scar tissue resulting in the obstruction.
+
+**Case 3:**
+
+A 55-year-old man is brought to the emergency department with severe abdominal pain, vomiting, and visible dehydration. The patient's wife states that he has been complaining of feeling full after eating only small amounts of food and has been losing weight over the past several weeks. His medical history includes chronic pancreatitis.
+
+*What is the most likely diagnosis of the patient?*
+
+Considering the patient's chronic pancreatitis history and his symptoms of abdominal pain, vomiting, visible dehydration, early satiety, and weight loss, the most probable diagnosis is **gastric outlet obstruction (GOO)**. Chronic pancreatitis can result in fibrosis and inflammation, potentially causing extrinsic compression on the duodenum, leading to GOO.
+
+**Case 4:**
+
+A 45-year-old woman presents to the emergency department with severe epigastric pain, persistent vomiting, and signs of dehydration. She reveals that she has lost a significant amount of weight over the last month and has a feeling of fullness after eating just a small amount of food. She has a history of heavy alcohol use and has been diagnosed with peptic ulcer disease in the past.
+
+*What is the most likely diagnosis of the patient?*
+
+Given the patient's symptoms of early satiety, vomiting, weight loss, and her history of peptic ulcer disease, the most probable diagnosis is **gastric outlet obstruction (GOO)**. Chronic alcohol use is a risk factor for peptic ulcer disease, which can result in GOO.
+
+**Case 5:**
+
+A 62-year-old man arrives at the clinic with a history of nausea, vomiting, and early satiety. He has also been losing weight unintentionally. He has a past medical history significant for the ingestion of a corrosive substance about three years ago in a suicide attempt.
+
+*What is the most likely diagnosis of the patient?*
+
+This patient's symptoms of nausea, vomiting, early satiety, and weight loss, along with a history of corrosive ingestion, indicate a likely diagnosis of **gastric outlet obstruction (GOO)**. Ingestion of corrosive substances can cause scar tissue formation and stenosis, leading to GOO.
+
+**Case 6:**
+
+A 70-year-old woman comes to the clinic complaining of recurrent vomiting of undigested food and noticeable weight loss. She also mentions feeling full after eating only a small quantity of food. Her medical history includes a recent diagnosis of pancreatic cancer.
+
+*What is the most likely diagnosis of the patient?*
+
+In this case, the patient's symptoms of persistent vomiting, early satiety, and weight loss, combined with a diagnosis of pancreatic cancer, lead to the probable diagnosis of **gastric outlet obstruction (GOO)**. Pancreatic cancer can cause external compression of the stomach or duodenum, leading to obstruction.
+
+**Case 7:**
+
+A 57-year-old man presents to the clinic with complaints of persistent nausea, vomiting, and feeling of fullness after eating small amounts of food. He reports unintentional weight loss over the past few months. His medical records reveal a history of chronic gastritis.
+
+*What is the most likely diagnosis of the patient?*
+
+Given the patient's symptoms of persistent nausea, vomiting, early satiety, and weight loss, along with a history of chronic gastritis, the most likely diagnosis is **gastric outlet obstruction (GOO)**. Chronic gastritis may lead to GOO due to long-standing inflammation causing fibrosis and stricture formation.
+
+**Case 8:**
+
+A 66-year-old woman reports to the emergency room with abdominal discomfort, persistent vomiting of undigested food, and severe dehydration. She also reports a feeling of fullness after eating small amounts of food. The patient's medical history includes a gastric bypass surgery done about a year ago due to morbid obesity.
+
+*What is the most likely diagnosis of the patient?*
+
+Considering the patient's symptoms of abdominal discomfort, persistent vomiting, dehydration, and early satiety, along with a history of gastric bypass surgery, the most likely diagnosis is **gastric outlet obstruction (GOO)**. Surgical alterations to the stomach, such as gastric bypass, can sometimes lead to obstruction due to scar tissue formation or anatomical changes.
+
+**Case 9:**
+
+A 48-year-old woman arrives at the clinic with complaints of ongoing vomiting, early satiety, and weight loss. She describes the vomit as consisting mostly of undigested food. Her medical history is significant for bulimia nervosa, for which she had received treatment in her twenties.
+
+*What is the most likely diagnosis of the patient?*
+
+Given the symptoms of persistent vomiting, early satiety, and weight loss, combined with a history of bulimia nervosa, the most likely diagnosis is **gastric outlet obstruction (GOO)**. Chronic vomiting, often seen in bulimia nervosa, can lead to gastric irritation and inflammation, potentially causing gastric outlet obstruction.
+
+**Case 10:**
+
+A 75-year-old man presents to the emergency department complaining of persistent vomiting, a feeling of fullness even after eating small amounts of food, and significant weight loss. He reports a history of untreated gastric ulcers and acknowledges he avoided medical care due to a fear of doctors.
+
+*What is the most likely diagnosis of the patient?*
+
+The patient's symptoms of persistent vomiting, early satiety, and weight loss, together with a history of untreated gastric ulcers, suggest a likely diagnosis of **gastric outlet obstruction (GOO)**. Untreated peptic ulcers can cause scarring and swelling, which can obstruct the gastric outlet.
+
+**Case 11:**
+
+A 68-year-old woman visits the clinic with symptoms of nausea, vomiting, early satiety, and weight loss. She shares that she has been diagnosed with a benign gastric polyp a few months back but didn't opt for any treatment.
+
+*What is the most likely diagnosis of the patient?*
+
+Considering the patient's symptoms of nausea, vomiting, early satiety, and weight loss, along with a diagnosis of gastric polyp, the most likely diagnosis is **gastric outlet obstruction (GOO)**. Gastric polyps can grow large enough to block the passage of food through the stomach, leading to GOO.
+
+**Case 12:**
+
+A 70-year-old man presents to the hospital with complaints of recurrent vomiting, a feeling of fullness after eating small amounts of food, and weight loss. His medical history reveals that he was diagnosed with gastric cancer a year ago and has been on chemotherapy since then.
+
+*What is the most likely diagnosis of the patient?*
+
+Given the patient's symptoms of recurrent vomiting, early satiety, and weight loss, and a history of gastric cancer and chemotherapy, the most likely diagnosis is **gastric outlet obstruction (GOO)**. Gastric cancer can invade the gastric outlet, and chemotherapy can cause inflammation or fibrosis, both leading to obstruction. 
+
+**Case 13:**
+
+A 63-year-old woman arrives at the emergency department with complaints of persistent vomiting, abdominal pain, and a significant loss of weight over the past few months. She has a history of alcohol abuse and peptic ulcer disease.
+
+*What is the most likely diagnosis of the patient?*
+
+This patient's symptoms of persistent vomiting, abdominal pain, and weight loss, along with a history of alcohol abuse and peptic ulcer disease, suggest a likely diagnosis of **gastric outlet obstruction (GOO)**. Alcohol abuse can exacerbate peptic ulcer disease, which, in turn, can lead to gastric outlet obstruction due to scar formation.
+
+**Case 14:**
+
+A 60-year-old man presents to the clinic with symptoms of nausea, recurrent vomiting of undigested food, and a feeling of fullness after eating a small amount of food. His medical records reveal that he had a whipple procedure done for pancreatic cancer a year ago.
+
+*What is the most likely diagnosis of the patient?
+
+*
+
+Considering the patient's symptoms of nausea, vomiting, early satiety, and history of pancreatic cancer and whipple procedure, the most likely diagnosis is **gastric outlet obstruction (GOO)**. Post-operative adhesions or structural changes after a whipple procedure can lead to gastric outlet obstruction.
+
+**Case 15:**
+
+A 50-year-old woman visits the clinic complaining of nausea, frequent vomiting of undigested food, early satiety, and significant weight loss over the last few months. Her medical records indicate that she was treated for corrosive ingestion due to a suicide attempt a few years ago.
+
+*What is the most likely diagnosis of the patient?*
+
+Given the patient's symptoms of nausea, vomiting, early satiety, and weight loss, along with a history of corrosive ingestion, the most likely diagnosis is **gastric outlet obstruction (GOO)**. Corrosive substances can cause severe damage and scarring to the stomach and duodenum, leading to obstruction.

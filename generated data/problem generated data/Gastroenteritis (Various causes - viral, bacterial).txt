@@ -1,0 +1,121 @@
+**Case 1:**
+
+A 35-year-old man arrives at your clinic with complaints of severe diarrhea, abdominal cramps, and nausea for the past two days. He admits to feeling feverish and generally unwell. He recently returned from a camping trip where he admits the sanitation conditions were less than ideal, and he drank water directly from a stream. 
+
+*What is the most likely diagnosis of the patient?*
+
+The patient's symptoms of diarrhea, abdominal cramps, nausea, and recent exposure to potentially contaminated water during his camping trip strongly suggest a diagnosis of **Gastroenteritis**, possibly due to a bacterial or parasitic infection.
+
+**Case 2:**
+
+A 6-year-old girl is brought to your office by her mother, who reports that her daughter has had multiple episodes of vomiting, diarrhea, and a low-grade fever for the past day. The mother mentions that there was a reported outbreak of gastroenteritis in her daughter's school. 
+
+*What is the most likely diagnosis of the patient?*
+
+Given the child's symptoms of vomiting, diarrhea, fever, and the reported outbreak of gastroenteritis in her school, the most likely diagnosis is **Gastroenteritis**, likely viral in origin.
+
+**Case 3:**
+
+A 60-year-old woman with a history of rheumatoid arthritis, for which she is on immunosuppressive therapy, presents to your clinic with severe diarrhea, nausea, and abdominal cramps. She also reports feeling extremely thirsty and appears to be disoriented.
+
+*What is the most likely diagnosis of the patient?*
+
+The patient's symptoms of severe diarrhea, nausea, abdominal cramps, and symptoms of dehydration, along with her history of immunosuppression, suggest a likely diagnosis of **Gastroenteritis**, potentially severe due to her weakened immune system.
+
+**Case 4:**
+
+A 28-year-old man presents to your clinic with symptoms of diarrhea, abdominal cramping, and a fever. He admits to eating at a new local fast-food restaurant that had recently received several health code violations. 
+
+*What is the most likely diagnosis of the patient?*
+
+Given the patient's symptoms of diarrhea, abdominal cramping, fever, and recent consumption of food from a restaurant with health code violations, the most likely diagnosis is **Gastroenteritis**, likely due to a bacterial infection.
+
+**Case 5:**
+
+A 2-year-old boy is brought to your clinic by his parents, who report that he has had watery diarrhea and vomiting for the past two days. They also mention a noticeable decrease in his urine output. Several other children at his daycare have had similar symptoms.
+
+*What is the most likely diagnosis of the patient?*
+
+Considering the child's symptoms of diarrhea, vomiting, decreased urine output indicative of possible dehydration, and the fact that other children in his daycare are also sick, the most likely diagnosis is **Gastroenteritis**, probably viral in origin. 
+
+**Case 6:**
+
+An 18-year-old college student presents to your clinic with nausea, vomiting, and diarrhea for the past 24 hours. He mentions having a communal meal at his dormitory, where several others have also fallen ill with similar symptoms.
+
+*What is the most likely diagnosis of the patient?*
+
+Given the patient's symptoms and the simultaneous onset of similar symptoms in his peers, the likely diagnosis is **Gastroenteritis**, probably due to foodborne bacteria or viruses.
+
+**Case 7:**
+
+A 45-year-old woman comes to your clinic complaining of fever, abdominal pain, and watery diarrhea. She tells you that she started a new antibiotic course prescribed by her dentist for a dental infection about a week ago.
+
+*What is the most likely diagnosis of the patient?*
+
+Considering the patient's symptoms and recent use of antibiotics, the most likely diagnosis is **Gastroenteritis**. More specifically, this may be a case of Clostridium difficile infection, which can occur following antibiotic treatment.
+
+**Case 8:**
+
+A 40-year-old man with HIV reports experiencing severe diarrhea and abdominal pain for the past three days. He is currently on antiretroviral therapy but has a low CD4 count, indicating severe immune suppression.
+
+*What is the most likely diagnosis of the patient?*
+
+Given the patient's immunocompromised status and his symptoms of diarrhea and abdominal pain, the most probable diagnosis is **Gastroenteritis**, which could be more severe and persistent due to his weakened immune system.
+
+**Case 9:**
+
+A 65-year-old woman with a history of chronic kidney disease presents with nausea, vomiting, and diarrhea for the last two days. She also complains of feeling extremely thirsty and lightheaded when standing up.
+
+*What is the most likely diagnosis of the patient?*
+
+The patient's symptoms of nausea, vomiting, diarrhea, and signs of dehydration suggest a diagnosis of **Gastroenteritis**. Her chronic kidney disease may increase her risk of severe dehydration due to these symptoms.
+
+**Case 10:**
+
+A 30-year-old man presents with severe diarrhea, abdominal cramps, and a fever. He reveals that he recently returned from a business trip to a developing country where he consumed local street food.
+
+*What is the most likely diagnosis of the patient?*
+
+The patient's symptoms and recent travel history suggest a probable diagnosis of **Gastroenteritis**, potentially due to a bacterial or parasitic infection contracted from consuming contaminated food.
+
+**Case 11:**
+
+A 50-year-old woman presents with symptoms of nausea, vomiting, and diarrhea. She reports having attended a family gathering where a number of attendees have since reported similar symptoms.
+
+*What is the most likely diagnosis of the patient?*
+
+Given the patient's symptoms and the simultaneous onset of similar symptoms in other attendees of the same event, the likely diagnosis is **Gastroenteritis**, likely due to a foodborne pathogen.
+
+**Case 12:**
+
+A 72-year-old man with a history of Type 2 diabetes and hypertension comes to your clinic complaining of recurrent bouts of diarrhea, abdominal pain, and occasional vomiting. His current medications include metformin, lisinopril, and atorvastatin.
+
+*What is the most likely diagnosis of the patient?*
+
+The patient's symptoms of diarrhea, abdominal pain, and occasional vomiting are indicative of **Gastroenteritis**. His chronic conditions and age might predispose him to a more severe or prolonged infection.
+
+**Case 13:**
+
+A 4-year-old girl is brought to your clinic by her parents, who report that she has had multiple episodes of vomiting, diarrhea, and a low-grade fever for the past two days. The parents mention that several other kids in her
+
+ nursery have been ill with similar symptoms.
+
+*What is the most likely diagnosis of the patient?*
+
+Given the child's symptoms and the reported outbreak of gastroenteritis in her nursery, the most likely diagnosis is **Gastroenteritis**, likely viral in origin.
+
+**Case 14:**
+
+A 55-year-old man with a history of gastritis presents with watery diarrhea and abdominal cramping. He admits to feeling feverish and reports that he recently ate at a restaurant known for its exotic cuisine.
+
+*What is the most likely diagnosis of the patient?*
+
+The patient's symptoms of diarrhea, abdominal cramping, and fever, as well as his recent meal at a restaurant serving exotic cuisine, suggest a diagnosis of **Gastroenteritis**, likely due to a bacterial or viral infection.
+
+**Case 15:**
+
+A 22-year-old woman presents to your clinic with abdominal cramps, nausea, vomiting, and diarrhea. She is a college student and reports eating at the university cafeteria, where several students have been complaining of similar symptoms.
+
+*What is the most likely diagnosis of the patient?*
+
+Given the patient's symptoms and the fact that other students eating at the same cafeteria are also ill, the most likely diagnosis is **Gastroenteritis**, likely due to a foodborne pathogen.

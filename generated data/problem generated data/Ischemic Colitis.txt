@@ -1,0 +1,123 @@
+**Case 1:**
+
+A 70-year-old man with a past medical history significant for hypertension, diabetes, and high cholesterol presents to the emergency department with sudden onset left-sided abdominal pain and an urgent need to defecate. He mentions passing bloody diarrhea multiple times today. On examination, his abdomen is tender to palpation on the left side.
+
+*What is the most likely diagnosis of the patient?*
+
+The most likely diagnosis for this patient is **Ischemic Colitis**. His clinical presentation of sudden onset abdominal pain with an urgent need to defecate, along with bloody diarrhea, is suggestive of this condition. His past medical history of hypertension, diabetes, and high cholesterol are risk factors for atherosclerosis, which can lead to decreased blood flow to the colon causing ischemic colitis.
+
+**Case 2:**
+
+A 68-year-old woman with a history of congestive heart failure presents to the clinic with recurrent episodes of abdominal pain and bloody stools over the past month. She reports that she's lost weight unintentionally. On examination, her abdomen is tender, especially on the left side.
+
+*What is the most likely diagnosis of the patient?*
+
+The most likely diagnosis is **Chronic Ischemic Colitis**. The patient's symptoms of recurrent abdominal pain and bloody stools, along with weight loss, suggest the presence of ongoing ischemia to the colon. Her history of congestive heart failure predisposes her to periods of low blood flow, which can contribute to the development of ischemic colitis.
+
+**Case 3:**
+
+A 73-year-old man presents to the emergency department with sudden onset abdominal pain and an urgent need to defecate. He reports passing bright red blood in his stool today. He has a medical history of atrial fibrillation and is currently on warfarin therapy. On examination, his abdomen is tender to palpation, particularly on the left side.
+
+*What is the most likely diagnosis of the patient?*
+
+The most likely diagnosis for this patient is **Ischemic Colitis**. This patient's sudden onset abdominal pain, with an urgent need to defecate and passage of bloody stool, are characteristic of ischemic colitis. His history of atrial fibrillation and warfarin therapy could predispose him to ischemic events due to emboli or bleeding, respectively.
+
+**Case 4:**
+
+A 77-year-old woman with a past medical history significant for hypertension, hyperlipidemia, and type 2 diabetes mellitus presents to the clinic with recurrent episodes of left-sided abdominal pain that has been going on for several weeks. She also reports having recurrent bloody stools and unintentional weight loss. On examination, her abdomen is tender on the left side.
+
+*What is the most likely diagnosis of the patient?*
+
+The most likely diagnosis is **Chronic Ischemic Colitis**. The patient's symptoms of recurrent left-sided abdominal pain, bloody stools, and weight loss are suggestive of chronic ischemia to the colon. Her history of hypertension, hyperlipidemia, and diabetes increases her risk of atherosclerosis, which can result in ischemic colitis due to reduced blood flow to the colon.
+
+**Case 5:**
+
+A 66-year-old man with a past medical history of coronary artery disease and recent abdominal surgery presents to the emergency department with sudden onset left-sided abdominal pain and an urgent need to defecate. He reports passing bright red blood in his stool today. On examination, his abdomen is tender to palpation, particularly on the left side.
+
+*What is the most likely diagnosis of the patient?*
+
+The most likely diagnosis for this patient is **Ischemic Colitis**. The patient's sudden onset left-sided abdominal pain, with an urgent need to defecate and passage of
+
+ bright red blood in the stool, are characteristic of this condition. His past medical history of coronary artery disease and recent abdominal surgery are significant risk factors that can cause a decrease in blood flow to the colon, leading to ischemic colitis.
+
+**Case 6:**
+
+A 64-year-old female with a history of migraines treated with ergotamines presents to the emergency department with sudden, severe left-sided abdominal pain. She reports a strong urge to defecate and the passage of bloody diarrhea. On physical examination, her abdomen is tender, particularly on the left side.
+
+*What is the most likely diagnosis of the patient?*
+
+The most likely diagnosis for this patient is **Ischemic Colitis**. Her clinical presentation of sudden onset abdominal pain with an urgent need to defecate and bloody diarrhea is characteristic of this condition. Her use of ergotamines, which can cause vasoconstriction, could have contributed to reduced blood flow to the colon, resulting in ischemic colitis.
+
+**Case 7:**
+
+A 71-year-old man with a history of systemic lupus erythematosus presents to the clinic with a two-week history of recurrent abdominal pain and bloody stools. He also reports unintentional weight loss. His abdomen is tender on the left side on examination.
+
+*What is the most likely diagnosis of the patient?*
+
+The most likely diagnosis for this patient is **Chronic Ischemic Colitis**. His symptoms of recurrent abdominal pain, bloody stools, and weight loss suggest chronic ischemia to the colon. His history of systemic lupus erythematosus, an autoimmune condition that can cause vasculitis, may predispose him to ischemic colitis.
+
+**Case 8:**
+
+A 68-year-old woman with a history of hypertension and diabetes presents to the emergency department with sudden left-sided abdominal pain and an urgent need to defecate. She also reports passing bloody diarrhea today. On physical examination, her abdomen is tender on the left side.
+
+*What is the most likely diagnosis of the patient?*
+
+The most likely diagnosis for this patient is **Ischemic Colitis**. Her presentation of sudden onset left-sided abdominal pain, with an urgent need to defecate and bloody diarrhea, is suggestive of ischemic colitis. Her past medical history of hypertension and diabetes are significant risk factors for atherosclerosis, which can cause decreased blood flow to the colon, resulting in ischemic colitis.
+
+**Case 9:**
+
+A 72-year-old man with a history of coronary artery disease and recent heart failure exacerbation presents to the emergency department with sudden onset abdominal pain and an urgent need to defecate. He mentions seeing bright red blood in his stool today. On examination, his abdomen is tender on the left side.
+
+*What is the most likely diagnosis of the patient?*
+
+The most likely diagnosis for this patient is **Ischemic Colitis**. The patient's sudden onset abdominal pain, an urgent need to defecate, and the passage of bloody stool are characteristic of ischemic colitis. His history of coronary artery disease and recent heart failure exacerbation are risk factors for decreased blood flow to the colon, leading to ischemic colitis.
+
+**Case 10:**
+
+A 67-year-old woman with a past medical history of hyperlipidemia, hypertension, and renal failure presents to the clinic with recurrent episodes of left-sided abdominal pain for several weeks. She also reports recurrent bloody stools and unintentional weight loss. Her abdomen is tender on the left side on examination.
+
+*What is the most likely diagnosis of the patient?*
+
+The most likely diagnosis is **Chronic Ischemic Colitis**. The patient's symptoms of recurrent left-sided abdominal pain, bloody stools, and weight loss are suggestive of chronic ischemia to the colon. Her history of hyperlipidemia, hypertension, and renal failure increases her risk of atherosclerosis, which can result in ischemic colitis due to reduced blood flow to the colon.
+
+**Case 11:**
+
+
+
+A 75-year-old man presents to the emergency department with sudden, severe abdominal pain. He reports an urgent need to defecate and has passed bloody diarrhea. He has a past medical history significant for atherosclerosis, for which he has had multiple surgeries, and he takes diuretics for control of his blood pressure. His physical examination reveals left-sided abdominal tenderness.
+
+*What is the most likely diagnosis of the patient?*
+
+The most likely diagnosis for this patient is **Ischemic Colitis**. His sudden onset of severe abdominal pain, urgency to defecate, and bloody diarrhea are consistent with ischemic colitis. His past medical history of atherosclerosis and use of diuretics, which can cause dehydration and reduce blood flow to the colon, increase his risk of this condition.
+
+**Case 12:**
+
+A 70-year-old woman with a history of atherosclerosis and high cholesterol arrives at the clinic with complaints of recurrent abdominal pain and bloody stools over the past few weeks. She also reports changes in bowel habits and unintended weight loss. Her abdomen is tender on the left side.
+
+*What is the most likely diagnosis of the patient?*
+
+The most likely diagnosis for this patient is **Chronic Ischemic Colitis**. Her symptoms of recurrent abdominal pain, bloody stools, and weight loss over a period of weeks, as well as changes in bowel habits, suggest chronic ischemia to the colon. Her atherosclerosis and high cholesterol increase the risk of reduced blood flow to the colon, leading to ischemic colitis.
+
+**Case 13:**
+
+A 66-year-old man with a history of diabetes and taking medications for migraines presents to the emergency department with sudden severe abdominal pain. He also reports an urgent need to defecate and bloody diarrhea. On examination, there is tenderness on the left side of his abdomen.
+
+*What is the most likely diagnosis of the patient?*
+
+The most likely diagnosis for this patient is **Ischemic Colitis**. His sudden severe abdominal pain, urgency to defecate, and bloody diarrhea are consistent with ischemic colitis. His diabetes, a condition that can contribute to atherosclerosis, and use of migraine medications, which can cause vasoconstriction, could be factors contributing to reduced blood flow to the colon, leading to ischemic colitis.
+
+**Case 14:**
+
+A 72-year-old woman with a past medical history of heart failure and renal disease presents to the emergency department with sudden onset left-sided abdominal pain. She reports an urgent need to defecate and has passed bloody diarrhea. Physical examination reveals tenderness in the left side of her abdomen.
+
+*What is the most likely diagnosis of the patient?*
+
+The most likely diagnosis for this patient is **Ischemic Colitis**. Her clinical presentation of sudden left-sided abdominal pain, urgency to defecate, and bloody diarrhea is characteristic of this condition. Her past medical history of heart failure and renal disease could contribute to decreased blood flow to the colon, resulting in ischemic colitis.
+
+**Case 15:**
+
+A 74-year-old man with a past medical history of coronary artery disease and a recent history of hypotension due to dehydration presents to the emergency department with severe abdominal pain. He also reports an urgent need to defecate and has passed bloody diarrhea. Physical examination reveals left-sided abdominal tenderness.
+
+*What is the most likely diagnosis of the patient?*
+
+The most likely diagnosis for this patient is **Ischemic Colitis**. His sudden onset of severe abdominal pain, urgency to defecate, and bloody diarrhea are typical symptoms of ischemic colitis. His history of coronary artery disease and recent hypotension due to dehydration could have contributed to reduced blood flow to the colon, causing ischemic colitis.
