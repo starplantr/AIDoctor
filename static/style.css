@@ -1,0 +1,104 @@
+body {
+        background-color: #f2f2f2;
+        font-family: "Open Sans", Arial, sans-serif;
+        margin: 0;
+        padding: 0;
+    }
+
+    h1 {
+        text-align: center;
+        color: #333;
+        margin-top: 30px;
+        font-size: 48px;
+        text-transform: uppercase;
+        letter-spacing: 3px;
+    }
+
+    #chatbox {
+        border: 2px solid #ccc;
+        border-radius: 5px;
+        padding: 20px;
+        height: 300px;
+        overflow-y: scroll;
+        margin: 30px auto;
+        background-color: #fff;
+        color: #333;
+        font-size: 16px;
+        box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+        width: calc(80% - 40px);
+    }
+
+    form {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin: 20px auto;
+        width: 80%;
+    }
+
+    input[type="text"] {
+        flex-grow: 0;
+        padding: 15px;
+        border: none;
+        border-radius: 5px;
+        margin-right: 10px;
+        font-size: 18px;
+        background-color: #fff;
+        color: #333;
+        box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+        width: calc(100% - 90px);
+    }
+
+    button[type="submit"] {
+        background-color: #0080ff;
+        color: #fff;
+        border: none;
+        border-radius: 5px;
+        padding: 15px;
+        font-size: 18px;
+        cursor: pointer;
+        box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+        transition: background-color 0.3s ease-in-out;
+    }
+
+    button[type="submit"]:hover {
+        background-color: #0066cc;
+    }
+
+    h2 {
+        text-align: center;
+        color: #333;
+        margin-top: 10px;
+        font-size: 15px;
+        text-transform: uppercase;
+        letter-spacing: 2px;
+        width: calc(100% - 0px);
+    }
+
+    /* page-loading */
+    #loading {
+        width: 100%;
+        height: 100%;
+        top: 0;
+        left: 0;
+        position: fixed;
+        display: block;
+        opacity: 0.6;
+        background: #e4e4e4;
+        z-index: 99;
+        text-align: center;
+    }
+
+    #loading>img {
+        position: absolute;
+        top: 36%;
+        left: 45%;
+        z-index: 100;
+    }
+
+    #loading>p {
+        position: absolute;
+        top: 54%;
+        left: 48%;
+        z-index: 101;
+    }
