@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="{{ url_for('static', filename='logincss.css') }}">
+    <link rel="stylesheet" href="{{ url_for('static', filename='loginjs.js') }}">
+    <title>register</title>
+</head>
+
+<body id="particles-js">
+<div class="animated bounceInDown">
+    <div class="container">
+        <span class="error animated tada" id="msg"></span>
+        <form name="form1" class="box" onsubmit="return checkStuff()" method="post">
+            <h4>REGISTER<span>FORM</span></h4>
+            <h5>Sign up to your account.</h5>
+            <input type="text" name="signup_username" placeholder="Username" autocomplete="off" required> <!-- 이름 입력 (수정안: required 삽입으로 빈칸 입력 버그 수정)--> 
+            <input type="text" name="signup_userid" placeholder="UserID" autocomplete="off" required> <!-- ID 입력 (수정안: required 삽입으로 빈칸 입력 버그 수정) -->
+            <i class="typcn typcn-eye" id="eye"></i>
+            <input type="password" name="signup_password" placeholder="Passsword" id="pwd" autocomplete="off" required> <!-- password 입력 (수정안: required 삽입으로 빈칸 입력 버그 수정) -->
+            <!-- <label>
+                <input type="checkbox">
+                <span></span>
+                <small class="rmb">Remember me</small>
+            </label> -->
+            <!-- <a href="#" class="forgetpass">Forget Password?</a>-->
+            <input type="submit" value="Sign up" class="btn1">
+            <input type="hidden" name="csrf_token" value="{{ csrf_token() }}" />
+        </form>
+    </div>
+</div>
+</body>>
+</html>

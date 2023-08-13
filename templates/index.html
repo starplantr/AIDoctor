@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, shrink-to-fit=no"
+    />
+    <meta http-equiv="x-ua-compatible" content="ie=edge" />
+    <title>AI Doctor</title>
+    <!-- MDB icon -->
+    <link rel="icon" href="img/mdb-favicon.ico" type="image/x-icon" />
+    <!-- Font Awesome -->
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css"
+    />
+    <!-- Google Fonts Roboto -->
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700;900&display=swap"
+    />
+    <!-- MDB -->
+    <link
+      rel="stylesheet"
+      href="{{ url_for('static', filename='css/mdb.min.css') }}"
+    />
+  </head>
+  <body style="background-color: #1d243d">
+    <!-- Start your project here-->
+    <div class="container">
+      <div
+        class="d-flex justify-content-center align-items-center"
+        style="height: 100vh"
+      >
+        <div class="text-center">
+          <span
+            style="
+              font-size: 70px;
+              color: rgb(139, 209, 124);
+              font-family: 'Open sans';
+            "
+          >
+            AI
+          </span>
+          <span
+            style="
+              font-size: 70px;
+              color: rgba(236, 236, 247);
+              font-family: 'Sans Pro';
+            "
+          >
+            Doctor
+          </span>
+          <h5
+            class="mb-3"
+            style="
+              font-size: 30px;
+              font-family: 'Sans Pro';
+              color: rgba(236, 236, 247);
+            "
+          >
+            Thank you for using our product. We're glad you're with us.
+          </h5>
+          <p
+            class="mb-3"
+            style="font-family: 'Sans Pro'; color: rgba(236, 236, 247)"
+          >
+            Web Programming Team AI doctor
+          </p>
+          <p style="font-family: 'Sans Pro'; color: rgba(236, 236, 247)">
+            Team Leader: 19011473 유진식
+          </p>
+          <p style="font-family: 'Sans Pro'; color: rgba(236, 236, 247)">
+            17011677 하윤호
+          </p>
+          <p style="font-family: 'Sans Pro'; color: rgba(236, 236, 247)">
+            20003197 구혁모
+          </p>
+          <a
+            class="btn btn-dark btn-rounded"
+            style="background-color: #7e57c2; color: rgba(236, 236, 247)"
+            href="{{url_for('Login')}}"
+            role="button"
+            >Please Login</a
+          >
+          <a
+            class="btn btn-secondary btn-rounded"
+            style="background-color: #79a6fe; color: rgba(236, 236, 247)"
+            href="https://huggingface.co/"
+            role="button"
+            >Go to Hugging Face</a
+          >
+        </div>
+      </div>
+    </div>
+    <!-- End your project here-->
+
+    <!-- footer -->
+    <footer class="bg-dark text-center text-lg-start">
+      <!-- Copyright -->
+      <div
+        class="text-light text-center p-3"
+        style="background-color: rgb(39, 37, 37)"
+      >
+        © 2023 Copyright: Team AI doctor
+      </div>
+      <!-- Copyright -->
+    </footer>
+    <!-- footer -->
+
+    <!-- End your project here-->
+
+    <!-- MDB -->
+    <script
+      type="text/javascript"
+      src="{{ url_for('static', filename='js/mdb.min.js') }}"
+    ></script>
+  </body>
+</html>
